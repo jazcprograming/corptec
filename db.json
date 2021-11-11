@@ -1,7 +1,7 @@
 {
 "entidades":[
   {
-"identidad":1,
+"identidad":0,
 "nomentidad":"PEOVXE",
 "idunidad":1,
 "nomunidad":"ATACOCHA",
@@ -19,6 +19,34 @@
 "nomentidad":"ANTAMINA",
 "idunidad":3,
 "nomunidad":"YANACOCHA",
+"url":"http://antamina.sytes.net/"
+},
+{
+"identidad":3,
+"nomentidad":"PRUEBA 1",
+"idunidad":3,
+"nomunidad":"COLCA",
+"url":"http://antamina.sytes.net/"
+},
+{
+"identidad":4,
+"nomentidad":"PRUEBA 2",
+"idunidad":3,
+"nomunidad":"YANACOCHA",
+"url":"http://antamina.sytes.net/"
+},
+{
+"identidad":5,
+"nomentidad":"PRUEBA 3",
+"idunidad":3,
+"nomunidad":"ATACOCHA",
+"url":"http://antamina.sytes.net/"
+},
+{
+"identidad":6,
+"nomentidad":"PRUEBA 4",
+"idunidad":3,
+"nomunidad":"ATACOCHA",
 "url":"http://antamina.sytes.net/"
 }
   ]
